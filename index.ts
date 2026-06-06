@@ -112,3 +112,21 @@ function exibirMenu(): void {
 }
 
 exibirMenu();
+
+k
+k
+k
+kkk
+k
+keyofk
+keyofk
+keyofkk
+k
+k
+k
+keyofk
+keyofk
+k
+k
+k
+keyofk
