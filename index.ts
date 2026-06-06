@@ -1,4 +1,3 @@
-console.log("eae")
 import PromptSync from "prompt-sync"; [cite: 388]
 
 const prompt = PromptSync(); [cite: 388]
@@ -113,8 +112,3 @@ function exibirMenu(): void {
 }
 
 exibirMenu();
-
-
-
-
-// atividade da aula
